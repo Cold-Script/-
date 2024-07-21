@@ -1,0 +1,12 @@
+--[[
+--Brightness
+game.Lighting.Brightness = 1 -- This is normal brightness you can toggle it 1 to 9e9
+--Fog End
+game.Lighting.FogEnd = 200 -- Normal Fog Range you can toggle it like Brightness
+--Shadows
+game.Lighting.GlobalShadows = true -- This is normal you can toggle it false or true
+--Ambient
+game.Lighting.Ambient = Color3.new(1,1,1) -- This is brightness ambient you
+                           ↑
+  --This is color you select brightness of ambient
+  ]]
